@@ -2,7 +2,7 @@ import { createStore } from 'redux';
 import reducer from './reducer';
 
 const initialStore = {
-    test: 'zhora'
+    compareFilms: []
 }
 
 export default createStore(reducer, initialStore)

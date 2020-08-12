@@ -1,0 +1,11 @@
+.ListFilms {
+    margin-bottom: 5px;
+}
+
+.ListFilms > button {
+    margin-right: 10px;
+}
+
+.date {
+    margin-right: 10px;
+}
